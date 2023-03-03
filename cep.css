@@ -1,0 +1,21 @@
+#spinner {
+  display: none;
+}
+
+body {
+  background-color: rgb(219, 219, 153);
+  background-image: url(background.jpg);
+}
+#cepDigital {
+  border-color: tomato;
+  border-radius: px;
+}
+#listagem {
+  display: none;
+}
+.newQuery {
+  display: none;
+}
+.digCep {
+  background-color: antiquewhite;
+}
